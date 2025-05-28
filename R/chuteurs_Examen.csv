@@ -1,0 +1,154 @@
+id;age;agecl;sexe;sitfamiliale;mode2vie;aidedomicile;chute;nbmedic;CV;Psy;Antidiabetique;autresmed;marcheautonome
+3;87;75 et +;Femme;Veuf;Seul;0;Oui;6;1;0;1;1;Aide
+6;81;75 et +;Femme;Veuf;Seul;0;Non;6;1;1;0;0;Oui
+7;78;75 et +;Femme;Veuf;Seul;0;Non;8;1;0;1;1;Oui
+10;75;75 et +;Femme;Veuf;Seul;0;Non;2;0;1;1;0;Oui
+12;77;75 et +;Femme;Veuf;Seul;0;Non;13;1;1;0;0;Aide
+19;96;75 et +;Homme;Veuf;Seul;1;Oui;3;0;0;1;1;Oui
+21;78;75 et +;Femme;Marié;Seul;0;Oui;10;1;1;0;0;Aide
+26;66;65-74;Femme;Veuf;Seul;0;Non;1;0;1;0;0;Oui
+29;81;75 et +;Femme;Veuf;Seul;0;Non;8;1;0;1;1;Oui
+40;67;65-74;Femme;Veuf;Seul;0;Non;3;0;0;0;1;Oui
+54;81;75 et +;Femme;Veuf;Seul;0;Non;2;1;0;0;0;Oui
+57;83;75 et +;Femme;Veuf;Seul;0;Non;3;1;0;0;0;Oui
+59;92;75 et +;Femme;Veuf;Seul;0;Oui;7;0;1;0;0;Aide
+62;95;75 et +;Femme;Veuf;Seul;0;Non;6;1;0;1;0;Oui
+63;71;65-74;Femme;Veuf;Seul;1;Non;9;1;1;0;0;Oui
+70;71;65-74;Femme;Veuf;Seul;0;Oui;1;0;1;0;0;Oui
+73;68;65-74;Femme;Veuf;Seul;0;Oui;3;0;1;0;0;Oui
+77;85;75 et +;Homme;Veuf;Seul;1;Non;2;0;0;0;1;Aide
+96;75;75 et +;Homme;Veuf;Seul;0;Non;7;1;1;0;0;Oui
+105;79;75 et +;Femme;Veuf;Seul;0;Non;2;0;1;0;0;Oui
+111;80;75 et +;Femme;Veuf;Seul;0;Non;5;0;1;1;1;Oui
+112;75;75 et +;Femme;Autre;Seul;0;Oui;8;1;0;0;0;Aide
+113;75;75 et +;Femme;Veuf;Seul;0;Oui;2;0;1;0;0;Oui
+114;69;65-74;Femme;Veuf;Seul;0;Non;9;0;1;1;0;Oui
+119;74;65-74;Femme;Veuf;Seul;0;Non;7;1;1;0;1;Aide
+120;77;75 et +;Femme;Veuf;Seul;0;Oui;11;1;1;0;0;Oui
+127;85;75 et +;Femme;Veuf;Seul;0;Non;14;1;1;1;1;Oui
+128;69;65-74;Femme;Autre;Seul;0;Non;4;1;0;0;0;Oui
+132;71;65-74;Femme;Veuf;Seul;0;Non;2;0;0;0;1;Non
+133;78;75 et +;Femme;Veuf;Seul;0;Non;6;1;1;0;0;Oui
+134;73;65-74;Homme;Veuf;Seul;0;Non;0;0;0;0;0;Oui
+135;75;75 et +;Femme;Veuf;Seul;0;Non;10;0;0;0;1;Oui
+136;71;65-74;Femme;Veuf;Seul;0;Non;8;1;0;0;1;Oui
+143;93;75 et +;Femme;Veuf;Seul;0;Non;8;1;1;0;0;Aide
+149;77;75 et +;Femme;Veuf;Seul;1;Non;7;1;1;0;1;Aide
+1;67;65-74;Homme;Marié;Pas Seul;0;Non;8;1;0;1;1;Oui
+4;66;65-74;Femme;Marié;Pas Seul;0;Non;6;1;1;0;0;Oui
+5;66;65-74;Homme;Marié;Pas Seul;0;Oui;6;1;1;0;1;Oui
+8;75;75 et +;Femme;Marié;Pas Seul;0;Oui;6;0;1;0;0;Oui
+9;78;75 et +;Homme;Marié;Pas Seul;0;Oui;7;1;1;0;0;Oui
+13;74;65-74;Femme;Marié;Pas Seul;0;Non;1;0;0;0;1;Oui
+14;78;75 et +;Homme;Marié;Pas Seul;0;Non;8;0;1;1;1;Oui
+15;75;75 et +;Femme;Marié;Pas Seul;0;Oui;2;1;0;1;0;Oui
+16;77;75 et +;Homme;Marié;Pas Seul;0;Oui;3;1;1;0;1;Oui
+17;66;65-74;Femme;Marié;Pas Seul;0;Non;3;0;1;1;1;Oui
+18;69;65-74;Homme;Marié;Pas Seul;0;Non;10;1;1;1;0;Oui
+22;83;75 et +;Homme;Marié;Pas Seul;0;Non;3;0;1;1;0;Oui
+23;75;75 et +;Femme;Marié;Pas Seul;0;Non;4;1;1;0;1;Oui
+24;76;75 et +;Femme;Marié;Pas Seul;0;Oui;5;1;1;0;0;Oui
+25;76;75 et +;Homme;Marié;Pas Seul;0;Non;7;1;1;0;0;Oui
+27;66;65-74;Femme;Marié;Pas Seul;0;Non;4;0;0;1;1;Oui
+28;66;65-74;Homme;Marié;Pas Seul;0;Non;3;1;0;0;0;Oui
+32;76;75 et +;Femme;Marié;Pas Seul;0;Non;3;0;0;0;1;Oui
+33;87;75 et +;Homme;Marié;Pas Seul;0;Non;5;1;0;0;0;Aide
+36;71;65-74;Femme;Marié;Pas Seul;0;Non;9;1;1;0;0;Oui
+37;77;75 et +;Homme;Marié;Pas Seul;0;Non;10;1;1;1;1;Oui
+38;91;75 et +;Femme;Marié;Pas Seul;0;Oui;6;1;0;0;0;Oui
+39;92;75 et +;Homme;Marié;Pas Seul;0;Non;5;0;0;1;1;Oui
+41;66;65-74;Homme;Marié;Pas Seul;0;Non;9;1;1;0;0;Aide
+42;69;65-74;Homme;Marié;Pas Seul;0;Oui;8;1;0;1;0;Oui
+43;68;65-74;Femme;Marié;Pas Seul;0;Non;2;0;0;0;1;Oui
+44;68;65-74;Homme;Marié;Pas Seul;0;Non;3;1;0;0;0;Oui
+45;65;65-74;Femme;Marié;Pas Seul;0;Non;2;0;0;0;1;Oui
+46;87;75 et +;Homme;Marié;Pas Seul;1;Oui;3;0;1;1;0;Aide
+47;78;75 et +;Femme;Marié;Pas Seul;0;Non;5;1;0;0;0;Oui
+48;75;75 et +;Femme;Marié;Pas Seul;0;Non;2;1;0;0;0;Oui
+49;74;65-74;Homme;Marié;Pas Seul;0;Non;2;0;1;0;1;Oui
+50;74;65-74;Femme;Marié;Pas Seul;0;Non;10;1;0;1;0;Oui
+51;75;75 et +;Homme;Marié;Pas Seul;0;Non;0;0;0;0;0;Oui
+52;90;75 et +;Femme;Marié;Pas Seul;0;Non;6;1;0;0;0;Aide
+53;87;75 et +;Homme;Marié;Pas Seul;0;Non;7;1;1;1;0;Oui
+56;75;75 et +;Homme;Marié;Pas Seul;0;Oui;8;1;0;0;0;Oui
+58;75;75 et +;Femme;Marié;Pas Seul;0;Non;6;1;1;1;0;Oui
+60;88;75 et +;Femme;Marié;Pas Seul;0;Non;2;0;1;0;1;Oui
+61;90;75 et +;Homme;Marié;Pas Seul;0;Non;2;0;0;0;1;Oui
+64;65;65-74;Femme;Marié;Pas Seul;0;Non;1;0;1;0;0;Oui
+65;71;65-74;Homme;Marié;Pas Seul;0;Non;0;0;0;0;0;Oui
+66;83;75 et +;Femme;Marié;Pas Seul;1;Non;9;1;1;0;0;Oui
+67;88;75 et +;Homme;Marié;Pas Seul;1;Oui;5;0;1;0;0;Oui
+71;73;65-74;Femme;Marié;Pas Seul;0;Non;2;0;0;0;1;Oui
+72;73;65-74;Homme;Marié;Pas Seul;0;Oui;4;0;0;1;0;Oui
+74;70;65-74;Homme;Marié;Pas Seul;1;Non;14;1;1;1;1;Aide
+78;77;75 et +;Homme;Marié;Pas Seul;0;Oui;1;1;0;0;0;Oui
+79;72;65-74;Femme;Marié;Pas Seul;0;Non;3;0;0;0;1;Oui
+80;79;75 et +;Homme;Marié;Pas Seul;0;Non;9;1;1;1;1;Non
+81;67;65-74;Femme;Marié;Pas Seul;0;Non;8;1;1;0;0;Oui
+82;67;65-74;Femme;Marié;Pas Seul;0;Non;1;0;1;0;0;Oui
+83;89;75 et +;Homme;Marié;Pas Seul;0;Non;7;1;1;0;1;Aide
+84;73;65-74;Femme;Marié;Pas Seul;0;Oui;5;1;1;1;0;Oui
+85;79;75 et +;Homme;Marié;Pas Seul;1;Oui;6;1;1;0;0;Aide
+86;72;65-74;Homme;Marié;Pas Seul;0;Non;3;0;0;1;0;Oui
+87;71;65-74;Femme;Marié;Pas Seul;0;Non;10;0;1;1;1;Oui
+88;73;65-74;Homme;Marié;Pas Seul;0;Non;0;0;0;0;0;Oui
+89;66;65-74;Femme;Marié;Pas Seul;0;Non;8;1;1;0;0;Oui
+90;74;65-74;Homme;Marié;Pas Seul;0;Non;4;1;0;0;0;Oui
+91;78;75 et +;Homme;Marié;Pas Seul;0;Non;2;0;0;1;1;Oui
+92;72;65-74;Femme;Marié;Pas Seul;0;Non;3;0;1;1;0;Non
+93;65;65-74;Homme;Marié;Pas Seul;0;Non;0;0;0;0;0;Oui
+94;78;75 et +;Homme;Marié;Pas Seul;0;Non;9;1;1;1;0;Oui
+95;87;75 et +;Femme;Marié;Pas Seul;1;Non;7;1;1;0;1;Aide
+97;65;65-74;Homme;Marié;Pas Seul;0;Non;1;0;0;0;1;Oui
+98;65;65-74;Femme;Marié;Pas Seul;0;Non;0;0;0;0;0;Oui
+99;69;65-74;Homme;Marié;Pas Seul;0;Non;5;1;1;0;1;Oui
+100;70;65-74;Homme;Marié;Pas Seul;0;Non;7;1;1;1;0;Oui
+101;69;65-74;Femme;Marié;Pas Seul;0;Non;5;0;1;1;0;Oui
+103;82;75 et +;Homme;Marié;Pas Seul;0;Non;7;1;1;0;0;Oui
+104;76;75 et +;Femme;Marié;Pas Seul;0;Oui;4;1;0;1;0;Aide
+106;85;75 et +;Homme;Marié;Pas Seul;0;Oui;5;1;0;0;1;Oui
+107;82;75 et +;Femme;Marié;Pas Seul;0;Non;6;1;1;0;0;Oui
+108;67;65-74;Homme;Marié;Pas Seul;0;Non;7;1;0;1;0;Oui
+109;65;65-74;Femme;Marié;Pas Seul;0;Non;4;0;0;0;1;Oui
+115;73;65-74;Homme;Marié;Pas Seul;0;Non;7;1;0;0;0;Aide
+117;68;65-74;Homme;Marié;Pas Seul;0;Oui;3;1;0;0;0;Oui
+118;67;65-74;Homme;Marié;Pas Seul;0;Non;6;1;0;1;0;Oui
+121;76;75 et +;Femme;Marié;Pas Seul;0;Non;6;1;0;0;0;Oui
+122;73;65-74;Homme;Marié;Pas Seul;0;Oui;9;1;1;1;0;Oui
+123;67;65-74;Femme;Marié;Pas Seul;0;Non;3;0;1;0;1;Oui
+124;71;65-74;Homme;Marié;Pas Seul;0;Non;4;1;0;1;0;Oui
+125;71;65-74;Femme;Marié;Pas Seul;0;Non;15;1;1;0;0;Aide
+126;69;65-74;Homme;Marié;Pas Seul;0;Non;3;1;0;0;0;Oui
+129;78;75 et +;Femme;Marié;Pas Seul;0;Oui;4;0;1;0;1;Non
+130;79;75 et +;Homme;Marié;Pas Seul;0;Non;2;0;0;1;0;Oui
+131;65;65-74;Homme;Marié;Pas Seul;0;Non;5;1;0;0;0;Oui
+137;75;75 et +;Femme;Marié;Pas Seul;0;Non;11;1;1;1;1;Non
+138;75;75 et +;Homme;Marié;Pas Seul;0;Non;8;1;1;0;1;Oui
+139;77;75 et +;Femme;Marié;Pas Seul;0;Oui;3;0;0;1;1;Oui
+140;70;65-74;Homme;Marié;Pas Seul;0;Non;3;0;0;0;1;Oui
+141;78;75 et +;Homme;Marié;Pas Seul;0;Non;9;1;0;1;0;Oui
+142;74;65-74;Femme;Marié;Pas Seul;0;Non;4;0;0;0;1;Oui
+147;68;65-74;Femme;Marié;Pas Seul;0;Non;9;0;0;0;1;Oui
+148;73;65-74;Homme;Marié;Pas Seul;0;Non;5;1;0;1;0;Oui
+150;70;65-74;Femme;Marié;Pas Seul;0;Non;1;0;0;0;1;Oui
+152;73;65-74;Homme;Marié;Pas Seul;0;Non;1;1;0;0;0;Oui
+2;82;75 et +;Femme;Veuf;Pas Seul;0;Oui;4;0;1;1;0;Oui
+11;84;75 et +;Femme;Veuf;Pas Seul;1;Oui;8;1;1;0;1;Aide
+20;88;75 et +;Femme;Veuf;Pas Seul;0;Non;5;0;0;0;1;Oui
+30;90;75 et +;Femme;Veuf;Pas Seul;0;Non;6;1;0;0;0;Aide
+35;90;75 et +;Femme;Veuf;Pas Seul;1;Oui;4;1;1;0;0;Non
+75;87;75 et +;Femme;Veuf;Pas Seul;1;Oui;10;1;0;1;0;Oui
+76;87;75 et +;Femme;Veuf;Pas Seul;1;Non;10;1;0;1;1;Aide
+102;100;75 et +;Homme;Veuf;Pas Seul;1;Non;2;0;1;0;1;Aide
+110;84;75 et +;Femme;Veuf;Pas Seul;0;Non;14;1;1;0;0;Aide
+116;86;75 et +;Femme;Veuf;Pas Seul;0;Non;7;1;0;0;1;Oui
+146;99;75 et +;Femme;Veuf;Pas Seul;1;Non;6;1;1;0;1;Aide
+151;90;75 et +;Femme;Veuf;Pas Seul;0;Non;10;0;1;1;1;Aide
+31;70;65-74;Homme;Veuf;Pas Seul;0;Non;5;1;0;1;1;Oui
+34;72;65-74;Femme;Veuf;Pas Seul;0;Non;0;0;0;0;0;Oui
+55;89;75 et +;Femme;Marié;Pas Seul;1;Non;5;1;1;1;0;Oui
+68;67;65-74;Femme;Veuf;Pas Seul;0;Non;3;0;0;1;0;Oui
+69;86;75 et +;Homme;Veuf;Pas Seul;0;Non;5;1;0;1;1;Oui
+144;73;65-74;Femme;Autre;Pas Seul;0;Non;1;0;0;0;1;Oui
+145;72;65-74;Femme;Autre;Pas Seul;0;Non;7;1;1;0;0;Oui
+153;70;65-74;Homme;Veuf;Pas Seul;0;Non;3;1;0;0;1;Oui
